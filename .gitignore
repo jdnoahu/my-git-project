@@ -1,0 +1,5 @@
+secret.yml
+node_modules/
+
+In this file we can save files we do not want pushed to GitHu
+Just type the file you don't want pushed.
